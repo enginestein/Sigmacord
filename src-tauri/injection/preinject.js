@@ -78,7 +78,7 @@ function safemodeTimer(elm) {
   // Start safemode timer and event listener right away, just in case
   safemodeTimer(safemode)
   
-  if (subtitle) subtitle.innerHTML = `Made with ❤️ by SpikeHD - v${version}`
+  if (subtitle) subtitle.innerHTML = `Made with brain by Enginestein - v1.0.0`
 
   typingAnim()
   
