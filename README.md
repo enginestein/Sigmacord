@@ -1,4 +1,6 @@
-# Sigmacord: Elevate Your Discord Experience
+# Sigmacord
+
+**Elevate Your Discord Experience**
 
 Unlock an unparalleled Discord experience with Sigmacord – your ultimate Discord client. Sigmacord is feature-packed, offering you a wealth of powerful tools, including customizable plugins, breathtaking themes, seamless CSS theme integration, and full-fledged Vencord support. Step into the future of Discord interaction with Sigmacord today!
 
