@@ -62,3 +62,5 @@ To set up Sigmacord and get started, you'll need a few prerequisites: `pnpm`, `n
    ```shell
    pnpm tauri dev
    ```   
+
+[Join us!](https://discord.gg/GMeBhcvcq7)
