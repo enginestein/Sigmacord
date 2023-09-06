@@ -1,0 +1,68 @@
+{
+  "build": {
+    "beforeDevCommand": "",
+    "beforeBuildCommand": "pnpm build",
+    "devPath": "https://discord.com/app",
+    "distDir": "https://discord.com/app",
+    "withGlobalTauri": true
+  },
+  "package": {
+    "productName": "Sigmacord",
+    "version": "1.0.0"
+  },
+  "tauri": {
+    "systemTray": {
+      "iconPath": "icons/icon.png",
+      "iconAsTemplate": true
+    },
+    "allowlist": {
+      "all": true
+    },
+    "bundle": {
+      "active": true,
+      "category": "DeveloperTool",
+      "copyright": "",
+      "deb": {
+        "depends": []
+      },
+      "externalBin": [],
+      "icon": [
+        "icons/icon.ico",
+        "icons/icon.png"
+      ],
+      "identifier": "com.sigmacord.dev",
+      "longDescription": "",
+      "macOS": {
+        "entitlements": null,
+        "exceptionDomain": "",
+        "frameworks": [],
+        "providerShortName": null,
+        "signingIdentity": null
+      },
+      "resources": [
+        "injection/preinject_min.js",
+        "injection/injection_min.js",
+        "injection/browser.js",
+        "injection/browser.css",
+        "html/index.html",
+        "html/top.html",
+        "html/notification.html",
+        "html/extra.css",
+        "icons/icon*.ico"
+      ],
+      "shortDescription": "",
+      "targets": "all",
+      "windows": {
+        "certificateThumbprint": null,
+        "digestAlgorithm": "sha256",
+        "timestampUrl": ""
+      }
+    },
+    "security": {
+      "csp": null
+    },
+    "updater": {
+      "active": false
+    }
+  }
+}
