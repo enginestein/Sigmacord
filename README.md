@@ -35,6 +35,10 @@ For plugin management, scroll further down to the **Plugins** section.
 
 Dive into the world of Sigmacord, where customization and enhanced functionality await your Discord journey!
 
+Below is an example image of Cyberpunk 2077 theme from better discord themes set in Sigmacord:
+
+![Screenshot 2023-09-07 091941](https://github.com/enginestein/Sigmacord/assets/117010357/583cd8d0-0afc-45c3-874d-0cfb04c329e2)
+
 # For developers
 
 ## Building Sigmacord
