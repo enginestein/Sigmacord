@@ -1,4 +1,5 @@
 <h1 align='center'>Sigmacord</h1>
+<h2 align='center'>Σ</h1>
 
 **Elevate Your Discord Experience**
 
